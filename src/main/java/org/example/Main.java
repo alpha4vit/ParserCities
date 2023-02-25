@@ -1,6 +1,7 @@
 package org.example;
 import java.io.IOException;
 
+import static org.example.Parser.parseCity;
 import static org.example.Parser.parse;
 
 public class Main {
